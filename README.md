@@ -20,3 +20,5 @@ npm run serve
 ```
 npm run build
 ```
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e5b1748e-fb3e-473e-bc70-b8fb95a6d09e/deploy-status)](https://app.netlify.com/sites/vuejs-task-trackr/deploys)
